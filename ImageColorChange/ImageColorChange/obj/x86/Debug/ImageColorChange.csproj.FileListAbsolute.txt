@@ -1,0 +1,7 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ImageColorChange\ImageColorChange\bin\Debug\ImageColorChange.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ImageColorChange\ImageColorChange\bin\Debug\ImageColorChange.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.pdb
