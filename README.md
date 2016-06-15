@@ -1,2 +1,2 @@
-# visual-Image-Changing-app
+# visual-Image-Changing-app.
 ##Got it?
