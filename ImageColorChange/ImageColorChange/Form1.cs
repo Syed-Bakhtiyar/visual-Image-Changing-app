@@ -44,6 +44,7 @@ namespace ImageColorChange
             }
             catch(Exception ex){
                 MessageBox.Show("Please type correct url");
+                textBox1.Clear();
             
             }
 
@@ -55,6 +56,11 @@ namespace ImageColorChange
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("type or copy url to url and open you will see image color");
         }
     }
 }

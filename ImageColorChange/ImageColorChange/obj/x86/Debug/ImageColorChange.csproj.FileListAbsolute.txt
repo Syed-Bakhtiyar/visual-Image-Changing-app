@@ -5,3 +5,10 @@ c:\users\bakhtiyar\documents\visual studio 2010\Projects\ImageColorChange\ImageC
 c:\users\bakhtiyar\documents\visual studio 2010\Projects\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.csproj.GenerateResource.Cache
 c:\users\bakhtiyar\documents\visual studio 2010\Projects\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.exe
 c:\users\bakhtiyar\documents\visual studio 2010\Projects\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.pdb
+C:\Users\bakhtiyar\Desktop\New folder (3)\visual-Image-Changing-app\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.exe
+C:\Users\bakhtiyar\Desktop\New folder (3)\visual-Image-Changing-app\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.pdb
+C:\Users\bakhtiyar\Desktop\New folder (3)\visual-Image-Changing-app\ImageColorChange\ImageColorChange\bin\Debug\ImageColorChange.exe
+C:\Users\bakhtiyar\Desktop\New folder (3)\visual-Image-Changing-app\ImageColorChange\ImageColorChange\bin\Debug\ImageColorChange.pdb
+C:\Users\bakhtiyar\Desktop\New folder (3)\visual-Image-Changing-app\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.Form1.resources
+C:\Users\bakhtiyar\Desktop\New folder (3)\visual-Image-Changing-app\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.Properties.Resources.resources
+C:\Users\bakhtiyar\Desktop\New folder (3)\visual-Image-Changing-app\ImageColorChange\ImageColorChange\obj\x86\Debug\ImageColorChange.csproj.GenerateResource.Cache
